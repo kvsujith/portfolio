@@ -1374,3 +1374,9 @@ footer .credits {
 footer .credits a {
   color: #fff;
 }
+
+#intro{
+  position:absolute;
+  float: left;
+  margin-top: 90px;
+}
